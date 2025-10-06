@@ -1,2 +1,0 @@
-# CaLimit
-Kalkulator Limit
